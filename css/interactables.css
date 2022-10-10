@@ -1,0 +1,85 @@
+a {
+    text-decoration: none;
+}
+
+.button{
+    display: block;
+    margin: auto;
+    width: 540px;
+    height: 56px;
+    margin-bottom: 20px;
+    font-size: 100%;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+.button2{
+    width: 232px;
+    height: 38px;
+    margin-bottom: 0px;
+    font-size: 100%;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+.button3{
+    text-align: center;
+    width: 232px;
+    height: 38px;
+    margin-bottom: 0px;
+    font-size: 100%;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+#funtionbutton1{
+    background-color: #8273c5;
+    color: white;
+    border: none;
+}
+
+#funtionbutton1:hover{
+    background-color: #b2a8e2;
+}
+
+#funtionbutton2{
+    border-color: #8273c5;
+    color: #8273c5;
+}
+
+#funtionbutton2:hover{
+    background-color: #8273c5;
+    color: white;
+}
+
+#funtionbutton3{
+    background-color: #b2a8e2;
+    color: white;
+    border: none;
+}
+#funtionbutton3:hover{
+    background-color: #8273c5;
+}
+
+#twitterbutton{
+    background-color: #00acee;
+    color: white;
+    border: none;
+}
+
+#facebookbutton{
+    background-color: #4267b2;
+    color: white;
+    border: none;
+}
+
+input{
+    width: 530px;
+    margin: 10px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+label{
+    margin-left: 10px;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Gravity-Bold;
+    src: url('gravity/Gravity-Bold.otf') format('truetype');
+}
+
+.center{
+    margin:auto;
+    width: 550px;
+}
+.logo{
+    text-align: center;
+}
