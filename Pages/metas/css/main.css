@@ -1,0 +1,35 @@
+.logosize{
+    width: 150px;
+}
+
+.personalbutton1{
+    display: block;
+    margin: auto;
+    width: 230px;
+    height: 45px;
+    margin-bottom: 20px;
+    font-size: 100%;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+.personalbutton2{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 25px;
+    margin-bottom: 20px;
+    font-size: 100%;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+.socialnetworks{
+    text-align: center;
+    width: auto;
+    height: 40px;
+}
+
+.iconimg{
+    width: 20px;
+}

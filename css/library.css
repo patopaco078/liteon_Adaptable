@@ -10,3 +10,68 @@
 .logo{
     text-align: center;
 }
+
+.topbar{
+    position: fixed;
+    left: 2%;
+    top: 2%;
+}
+
+.topbar img{
+    width: 70px;
+}
+
+.rightbar{
+    position: fixed;
+    right: 2%;
+    top: 2%;
+}
+
+.rightbar img{
+    width: 70px;
+}
+
+.centerbar{
+    padding-top: 30px;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+}
+
+.searchpatch{
+    display: flex;
+    flex-direction: row;
+}
+
+.centerbar div h3{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    color: #C4C4C4;
+}
+
+.centerbar h4{
+    margin-top: 2px;
+    color: #C4C4C4;
+}
+
+.centerbar div img{
+    height: 50px;
+}
+
+.centerbarinput{
+    width: 60%;
+    height: 38px;
+}
+
+.content{
+    margin: auto;
+    width: 60%;
+}
+.content h2{
+    text-align: center;
+}
+.content img{
+    display: block;
+    margin: 0px auto;
+}
